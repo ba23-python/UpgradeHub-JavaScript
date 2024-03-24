@@ -3,6 +3,48 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+ ../../../../../../../../.afirma/
+        ../../../../../../../../.bash_history
+        ../../../../../../../../.docker/
+        ../../../../../../../../.dotnet/
+        ../../../../../../../../.fnmt/
+        ../../../../../../../../.gitconfig
+        ../../../../../../../../.kindle/
+        ../../../../../../../../.lesshst
+        ../../../../../../../../.pdfbox.cache
+        ../../../../../../../../.ssh/
+        ../../../../../../../../.vscode/
+        ../../../../../../../../3D Objects/
+        ../../../../../../../../AppData/
+        ../../../../../../../../Application Data/
+        ../../../../../../../../Contacts/
+        ../../../../../../../../DE_Bilyana_EjPractico SQLCumple.csv
+        ../../../../../../../../Desktop/Javascript Front Upgrade Hub - Visual Studio Folder/
+        ../../../../../../../../Downloads/
+        ../../../../../../../../Dropbox/
+        ../../../../../../../../Evernote/
+        ../../../../../../../../Favorites/
+        ../../../../../../../../Fichero_Cancelaciones_Reservas_MOA.csv
+        ../../../../../../../../Links/
+        ../../../../../../../../MicrosoftEdgeBackups/
+        ../../../../../../../../Music/
+        ../../../../../../../../NTUSER.DAT
+        ../../../../../../../../NTUSER.DAT{b10b94f6-8a90-11eb-94e1-f5b80c214d5b}.TM.blf
+        ../../../../../../../../NTUSER.DAT{b10b94f6-8a90-11eb-94e1-f5b80c214d5b}.TMContainer00000000000000000001.regtrans-ms
+        ../../../../../../../../NTUSER.DAT{b10b94f6-8a90-11eb-94e1-f5b80c214d5b}.TMContainer00000000000000000002.regtrans-ms
+        ../../../../../../../
+        ../../../../../../../../SOFTUNI
+        ../../../../../../../../SOFTUNI.pub
+        ../../../../../../../../Saved Games/
+        ../../../../../../../../Searches/
+        ../../../../../../../../Tracking_Extract_Bilyana.zip
+        ../../../../../../../../Videos/
+        ../../../../../../../../guests.txt
+        ../../../../../../../../it-cert-automation-practice/
+        ../../../../../../../../ntuser.dat.LOG1
+        ../../../../../../../../ntuser.dat.LOG2
+        ../../../../../../../../ntuser.ini
+
 # User-specific files
 *.rsuser
 *.suo
@@ -31,6 +73,9 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+
+
+
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
