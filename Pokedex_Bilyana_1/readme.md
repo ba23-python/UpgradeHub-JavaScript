@@ -13,4 +13,4 @@ Ejecutar el fetch mediante una función recuperando los 150 primeros Pokemon a t
 3. En la fase de escribir el Javascript, aplique for loop para traer los 150 pokemons. la variable listaPokemon obtiene información sobre los primeros 150 Pokémon de la PokeAPI, analiza los datos y luego los muestra en una página web utilizando la función mostrarPokemon.
 4. En la funcion mostrarPokemon(poke) Esta genera dinámicamente contenido HTML para mostrar información sobre Pokémon, incluyendo su imagen, nombre, ID, tipos, altura y peso, y lo añade a un contenedor en la página web con el id "listaPokemon".
 
-(Imagen Pokedex Bilyana https://i.postimg.cc/pXDr2gTS/Pokedex-Bilyana.png)[]
+![Pokedex Bilyana](PokedexBilyana..PNG)
