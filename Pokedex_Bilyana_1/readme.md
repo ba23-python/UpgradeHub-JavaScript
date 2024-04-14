@@ -10,7 +10,7 @@ Ejecutar el fetch mediante una función recuperando los 150 primeros Pokemon a t
 
 1. Lo primero que hice fue crear la maquetacion en HTML y CSS
 2. En este etapa aplique el CSS display grid y flex para que las tarjetas de los Pokemons se muestren de forma responsive en cada tamaño de pantalla. Decidi que mis tarjetas van a mostrar el nombre del pokemon, su id, y propiedades adicionales como el peso y la altura, tal y como el tipo-electric o fighting. Cree varios divs para ello que luego le di un poco de CSS.
-3. En la fase de escribir el Javascript, aplique for loop para traer los 150 pokemons. la variable listaPokemon obtiene información sobre los primeros 150 Pokémon de la PokeAPI, analiza los datos y luego los muestra en una página web utilizando la función mostrarPokemon.
+3. En la fase de escribir el Javascript, aplique FOR LOOP para traer los 150 pokemons. la variable listaPokemon obtiene información sobre los primeros 150 Pokémon de la PokeAPI, analiza los datos y luego los muestra en una página web utilizando la función mostrarPokemon.
 4. En la funcion mostrarPokemon(poke) Esta genera dinámicamente contenido HTML para mostrar información sobre Pokémon, incluyendo su imagen, nombre, ID, tipos, altura y peso, y lo añade a un contenedor en la página web con el id "listaPokemon".
 
 ![Pokedex Bilyana](PokedexBilyana..PNG)
