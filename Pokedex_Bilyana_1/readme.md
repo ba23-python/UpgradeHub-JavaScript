@@ -29,3 +29,5 @@ Ejecutar el fetch mediante una función recuperando los 150 primeros Pokemon a t
 4. En la funcion mostrarPokemon(poke) Esta genera dinámicamente contenido HTML para mostrar información sobre Pokémon, incluyendo su imagen, nombre, ID, tipos, altura y peso, y lo añade a un contenedor en la página web con el id "listaPokemon".
 
 ![Pokedex Bilyana](PokedexBilyana..PNG)
+
+![Evaluacion Tutor](Resena-tutor.PNG)
